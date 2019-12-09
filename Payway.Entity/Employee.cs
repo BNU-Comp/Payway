@@ -34,9 +34,5 @@ namespace Payway.Entity
         public string Postcode { get; set; }
         public IEnumerable<PaymentRecord> PaymentRecords { get; set; }
 
-
-
-
-
     }
 }
